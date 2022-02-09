@@ -1,0 +1,7 @@
+thread=1
+    log=5.0, vel = 0.4 : time=0.5
+    tr = 0.0: turn=-45
+    vel = -0.4 : time=0.5
+    tr = 0.0: turn=45
+    vel = 0.4 : time=0.5
+    vel=0.0: log=0
